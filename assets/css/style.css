@@ -8,7 +8,6 @@ body {
   background-image: url("../img/bg-header.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  background-position: left;
 }
 
 /* Mis trabajos */
@@ -22,6 +21,18 @@ body {
 
 #Mis-trabajos a{
   text-decoration: none;
+}
+
+hr {
+  font-size: 15rem;
+}
+
+.card {
+  border-radius: 1rem;
+}
+
+.image-top {
+  border-radius: 1rem;
 }
 
 /* Contacto */
